@@ -13,7 +13,7 @@ git config --global user.email "email"
 
 Create a new repository
 git clone git@github.com:Yq-Shi/repository.git
-cd 3124
+cd repository
 touch README.md
 git add README.md
 git commit -m "add README"
